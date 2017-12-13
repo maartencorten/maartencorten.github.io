@@ -3,6 +3,7 @@
     background: url("zundapplogo.jpg");
     color: black;
     font-family: helvetica;
+    background-size: cover;
     
   }
   p {
