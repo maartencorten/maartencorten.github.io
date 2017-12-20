@@ -1,0 +1,77 @@
+body {
+   text-align: center;
+   color: black;
+   font-family: helvetica;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   background-color: grey;
+
+ }
+ p {
+   font-size: 22px;
+ }
+ input {
+   border: 0;
+   padding: 10px;
+ }
+ ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: #333;
+ }
+
+ li {
+     float: left;
+ }
+
+ li a {
+     display: block;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+ }
+
+ li a:hover {
+     background-color: #111;
+ }
+div {...iets over het anders uitlijnen van tekst. Google: text-aline}
+
+.nav{
+  margin-top: 8px;
+  width: 100%;
+  padding: -8px;
+}
+
+.HeaderImage{
+  background-image: url('zundap1.jpg');
+  min-height: 105%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: -8px;
+  border-top: 0px;
+  border-radius: 0px;
+  padding: 0px;
+  column-rule-color: #666;
+  text-decoration: none;
+}
+
+.HeaderImage{
+  background-image: url('zundap1.jpg');
+  min-height: 105%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: -8px;
+  border-top: 0px;
+  border-radius: 0px;
+  padding: 0px;
+  column-rule-color: #666;
+  text-decoration: none;
+}
