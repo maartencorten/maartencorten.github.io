@@ -6,7 +6,6 @@ body {
    background-attachment: fixed;
    background-position: center;
    background-color: grey;
-
  }
  p {
    font-size: 22px;
@@ -22,26 +21,22 @@ body {
      overflow: hidden;
      background-color: #333;
  }
-
  li {
      float: left;
  }
-
  li a {
      display: block;
      color: white;
      text-align: center;
-     padding: 14px 16px;
+     padding: 10px 16px;
      text-decoration: none;
  }
-
  li a:hover {
      background-color: #111;
  }
 div {...iets over het anders uitlijnen van tekst. Google: text-aline}
-
 .nav{
-  margin-top: 8px;
+  margin-top: 6px;
   width: 100%;
   padding: -8px;
 }
@@ -56,7 +51,10 @@ div {...iets over het anders uitlijnen van tekst. Google: text-aline}
 .gts50txt{
   text-align: mid;
 }
-.cs50{
+.zundappcs50{
    width: 1000px;
    height: 750px;
-   background-position: center;
+ }
+ .cs50txt{
+   text-align: center;
+ }
